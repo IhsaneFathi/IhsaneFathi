@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Developer in search of innovation - between AI, web and connected objects..
 <!--
 **IhsaneFathi/IhsaneFathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
