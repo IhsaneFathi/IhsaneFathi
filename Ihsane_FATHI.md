@@ -74,4 +74,4 @@
 ---
 
 ## 🔗 Connect with Me
-![LinkedIn](www.linkedin.com/in/ihsane-fathi)
+![LinkedIn](https://www.linkedin.com/in/ihsane-fathi/)
